@@ -37,6 +37,7 @@ LABEL maintainer="Dave Conroy (dave at tiredofit dot ca)"
           php5-ldap \
           php5-mailparse \
           php5-mcrypt \
+          php5-mysql \
           php5-mysqli \
           php5-odbc \
           php5-opcache \
